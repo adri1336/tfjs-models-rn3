@@ -1,5 +1,5 @@
 {
-  "name": "tensorflow-models",
+  "name": "@adri1336/tensorflow-models",
   "version": "0.0.1",
   "scripts": {
     "diff": "./scripts/diff.js",
@@ -27,5 +27,16 @@
     "typescript": "4.9.5",
     "yalc": "~1.0.0-pre.50"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "description": "This repository hosts a set of pre-trained models that have been ported to TensorFlow.js.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adri1336/tfjs-models-rn3.git"
+  },
+  "author": "adri1336",
+  "bugs": {
+    "url": "https://github.com/adri1336/tfjs-models-rn3/issues"
+  },
+  "homepage": "https://github.com/adri1336/tfjs-models-rn3#readme"
 }
