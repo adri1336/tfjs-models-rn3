@@ -1,6 +1,6 @@
 {
   "name": "@adri1336/tensorflow-models",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "diff": "./scripts/diff.js",
     "link-local": "yalc link",
